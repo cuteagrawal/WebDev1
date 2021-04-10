@@ -1,0 +1,9 @@
+body{
+    background-image:url("background.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+#nav_bar{
+     font-family: 'Bree Serif', serif; 
+/* font-family: 'Open Sans', sans-serif; */
+}
