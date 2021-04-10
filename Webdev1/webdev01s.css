@@ -2,7 +2,34 @@ body{
     background-image:url("background.jpg");
     background-size: cover;
     background-repeat:no-repeat;
+    padding: 2%;
 }
+
+/* Home */
+
+#head{
+    display:block;
+    padding-bottom:3% ;
+}
+
+.nav-item{
+    text-decoration:solid;
+    font-weight: 700;
+}
+.school_name{
+    font-family: 'Bree Serif', serif;
+}
+
+#school_logo{
+    width: 10%;
+    float: left;
+    padding: 0;
+}
+
+.classes{
+    list-style:none;
+}
+
 #nav_bar{
      font-family: 'Bree Serif', serif; 
 /* font-family: 'Open Sans', sans-serif; */
