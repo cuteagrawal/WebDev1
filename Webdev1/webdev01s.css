@@ -34,3 +34,32 @@ body{
      font-family: 'Bree Serif', serif; 
 /* font-family: 'Open Sans', sans-serif; */
 }
+
+#principal img{
+    width:8rem;
+
+}
+.content{
+    text-align: center;
+}
+#principal{
+    background-color:#ffd7ba ;
+    /* width:40%; */
+    width:300px;
+    height:350px;
+    position:absolute;
+    left:38%;
+    border-radius: 6%;
+    padding: 1%;
+
+}
+#director img{
+    width:8rem;
+}
+/* #director{
+    position:relative;
+    top:20%;
+} */
+#topper img{
+    width:6rem;
+}
